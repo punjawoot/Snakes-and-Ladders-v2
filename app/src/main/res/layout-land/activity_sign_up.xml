@@ -124,35 +124,35 @@
                     android:layout_height="@dimen/icon_small"
                     android:id="@+id/imageView2"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/build1" />
+                    android:src="@drawable/avata1" />
 
                 <ImageView
                     android:layout_width="@dimen/icon_small"
                     android:layout_height="@dimen/icon_small"
                     android:id="@+id/imageView3"
                     android:layout_marginLeft="35dp"
-                    android:src="@drawable/build2" />
+                    android:src="@drawable/avata2" />
 
                 <ImageView
                     android:layout_width="@dimen/icon_small"
                     android:layout_height="@dimen/icon_small"
                     android:id="@+id/imageView4"
                     android:layout_marginLeft="35dp"
-                    android:src="@drawable/build3" />
+                    android:src="@drawable/avata3" />
 
                 <ImageView
                     android:layout_width="@dimen/icon_small"
                     android:layout_height="@dimen/icon_small"
                     android:id="@+id/imageView5"
                     android:layout_marginLeft="35dp"
-                    android:src="@drawable/build4" />
+                    android:src="@drawable/avata4" />
 
                 <ImageView
                     android:layout_width="@dimen/icon_small"
                     android:layout_height="@dimen/icon_small"
                     android:id="@+id/imageView6"
                     android:layout_marginLeft="35dp"
-                    android:src="@drawable/build5" />
+                    android:src="@drawable/avata5" />
             </LinearLayout>
 
             <RadioGroup

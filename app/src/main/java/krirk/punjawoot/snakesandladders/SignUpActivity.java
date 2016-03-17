@@ -18,7 +18,7 @@ public class SignUpActivity extends AppCompatActivity {
     private RadioGroup avataRadioGroup;
     private RadioButton avata1RadioButton, avata2RadioButton, avata3RadioButton, avata4RadioButton, avata5RadioButton;
     private String nameString, userString, passwordString, avataString;
-    public int[] avataInts = {R.drawable.build1, R.drawable.build2, R.drawable.build3, R.drawable.build4, R.drawable.build5};
+    public int[] avataInts = {R.drawable.avata1, R.drawable.avata2, R.drawable.avata3, R.drawable.avata4, R.drawable.avata5};
 
 
 
